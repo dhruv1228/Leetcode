@@ -1,5 +1,0 @@
-// Title: Minimum Window Substring
-            // Difficulty: Unknown
-            // Language: undefined
-            // Link: https://leetcode.com/problems/minimum-window-substring/
-
