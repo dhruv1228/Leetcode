@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhruv1228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [1288-remove-covered-intervals](https://github.com/dhruv1228/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv1228/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/dhruv1228/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dhruv1228/Leetcode/tree/master/0047-permutations-ii) |
+| [1288-remove-covered-intervals](https://github.com/dhruv1228/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Union-Find
 |  |
 | ------- |
