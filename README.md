@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/dhruv1228/Leetcode/tree/master/0047-permutations-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv1228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhruv1228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv1228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhruv1228/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv1228/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv1228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
