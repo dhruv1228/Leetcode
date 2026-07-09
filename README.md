@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhruv1228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1288-remove-covered-intervals](https://github.com/dhruv1228/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv1228/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/dhruv1228/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/dhruv1228/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dhruv1228/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/dhruv1228/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/dhruv1228/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
