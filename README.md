@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dhruv1228/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dhruv1228/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv1228/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/dhruv1228/Leetcode/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/dhruv1228/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv1228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/dhruv1228/Leetcode/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv1228/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Greedy
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv1228/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dhruv1228/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
