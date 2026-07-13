@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhruv1228/Leetcode/tree/master/0054-spiral-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/dhruv1228/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
