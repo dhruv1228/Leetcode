@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/dhruv1228/Leetcode/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/dhruv1228/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhruv1228/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Graph Theory
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dhruv1228/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dhruv1228/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
