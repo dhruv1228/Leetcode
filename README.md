@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv1228/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dhruv1228/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3866-first-unique-even-element](https://github.com/dhruv1228/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dhruv1228/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/dhruv1228/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dhruv1228/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/dhruv1228/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3866-first-unique-even-element](https://github.com/dhruv1228/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv1228/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dhruv1228/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/dhruv1228/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3866-first-unique-even-element](https://github.com/dhruv1228/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Monotonic Stack
 |  |
 | ------- |
