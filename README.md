@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dhruv1228/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv1228/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/dhruv1228/Leetcode/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/dhruv1228/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/dhruv1228/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruv1228/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv1228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv1228/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/dhruv1228/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/dhruv1228/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dhruv1228/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dhruv1228/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruv1228/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/dhruv1228/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv1228/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/dhruv1228/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dhruv1228/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv1228/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
