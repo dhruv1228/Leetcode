@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dhruv1228/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhruv1228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/dhruv1228/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/dhruv1228/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhruv1228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhruv1228/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dhruv1228/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv1228/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruv1228/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/dhruv1228/Leetcode/tree/master/0089-gray-code) |
+| [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhruv1228/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhruv1228/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhruv1228/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
