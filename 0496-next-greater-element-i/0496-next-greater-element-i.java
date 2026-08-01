@@ -21,8 +21,6 @@ class Solution {
             }
             if(!insert){
                 arr[x++]=-1;
-                found=false;
-                insert=false;
             }
         }
         return arr;
