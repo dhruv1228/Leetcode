@@ -340,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruv1228/Leetcode/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/dhruv1228/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
