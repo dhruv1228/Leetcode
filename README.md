@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruv1228/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhruv1228/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv1228/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/dhruv1228/Leetcode/tree/master/0046-permutations) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dhruv1228/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dhruv1228/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv1228/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
