@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/dhruv1228/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhruv1228/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/dhruv1228/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dhruv1228/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0485-max-consecutive-ones](https://github.com/dhruv1228/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhruv1228/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dhruv1228/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruv1228/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/dhruv1228/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/dhruv1228/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/dhruv1228/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhruv1228/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
