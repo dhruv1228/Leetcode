@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv1228/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv1228/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/dhruv1228/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruv1228/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhruv1228/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dhruv1228/Leetcode/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhruv1228/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/dhruv1228/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruv1228/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/dhruv1228/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruv1228/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv1228/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhruv1228/Leetcode/tree/master/0268-missing-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhruv1228/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/dhruv1228/Leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/dhruv1228/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dhruv1228/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dhruv1228/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dhruv1228/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruv1228/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhruv1228/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dhruv1228/Leetcode/tree/master/0268-missing-number) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dhruv1228/Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/dhruv1228/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/dhruv1228/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruv1228/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -404,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/dhruv1228/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhruv1228/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
