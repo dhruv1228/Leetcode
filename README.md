@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/dhruv1228/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/dhruv1228/Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/dhruv1228/Leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/dhruv1228/Leetcode/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/dhruv1228/Leetcode/tree/master/1140-stone-game-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dhruv1228/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv1228/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/dhruv1228/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/dhruv1228/Leetcode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/dhruv1228/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dhruv1228/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dhruv1228/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
