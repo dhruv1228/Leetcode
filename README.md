@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruv1228/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dhruv1228/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dhruv1228/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/dhruv1228/Leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/dhruv1228/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/dhruv1228/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruv1228/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/dhruv1228/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhruv1228/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/dhruv1228/Leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/dhruv1228/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/dhruv1228/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhruv1228/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhruv1228/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dhruv1228/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
